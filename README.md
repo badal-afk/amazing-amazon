@@ -1,14 +1,17 @@
 # Amazon UI Clone
 
-## 📌 Description
+##  Description
 A frontend clone of Amazon homepage built using HTML and CSS.
 
-## 🚀 Features
+##  Features
 - Responsive design
 - Navigation bar
 - Product sections
 - Footer UI
 
-## 🛠 Tech Stack
+##  Tech Stack
 - HTML
 - CSS
+
+## live link
+https://badal-afk.github.io/amazing-amazon/
